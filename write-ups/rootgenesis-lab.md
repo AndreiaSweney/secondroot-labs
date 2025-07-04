@@ -52,7 +52,7 @@ workflows, threat detection, and ethical hacking. Starting from foundational too
 **WSL2**: 
 - Used as a fallback test environment of VM fails
 
-## ⚠️ Issues Encountered 
+## Issues Encountered 
 
 ### VT-x Not Enabled (VirtualBox) 
 **Error**: Kali VM failed to boot with "VT-x not available"
