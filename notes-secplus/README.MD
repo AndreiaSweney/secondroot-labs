@@ -7,7 +7,7 @@ Welcome to my personal Security+ study notes. This folder is part of my active p
 Each markdown file in this folder includes:
 - **Concise summaries** of key cybersecurity principles
 - **Organized tables and comparisons** to support retention
-- **Hands-on references** and mental models used in real-world security work
+- **Hands-on references** and mental models used in real-world security work 
 
 > These notes are based on Dion Training, Hack The Box Academy, and other verified Security+ resources.
 
