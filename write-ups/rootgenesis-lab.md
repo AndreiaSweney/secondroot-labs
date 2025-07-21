@@ -11,7 +11,7 @@
 ## Objective
 
 To build a virtual home lab for practical cybersecurity training, including offensice (red team) and defensive (blue team) techniques. This lab supports my learning goals around SOC analyst
-workflows, threat detection, and ethical hacking. Starting from foundational tools and progressing toward more complex simulations.
+workflows, threat detection, and ethical hacking. Starting from foundational tools and progressing toward more complex simulations.  
 
 ## Host Machine Specs
 
