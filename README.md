@@ -32,10 +32,16 @@ secondroot-labs/
 
 ## Labs & Write-Ups
 
-- [RootGenesis Home Lab Setup](./write-ups/rootgenesis-lab.md)  
+- [RootGenesis Home Lab Setup](./write-ups/rootgenesis-lab.md)
+    
   A documented breakdown of my personal cybersecurity lab build using VirtualBox, Kali Linux, and Security Onion — including setup steps, networking configs, and troubleshooting notes.
 
-- [Fawn (HTB)](./HTB/fawn/README.md)  
+- [Meow (HTB)](.HTB/meow/meow.md)
+  
+  My first Hack The Box machine. A simple Telnet-based challenge that walked me through basic enumeration, shell access, and flag capture.  
+
+- [Fawn (HTB)](./HTB/fawn/README.md)
+  
   Completed with no errors — clean process flow covering FTP enumeration and basic flag capture.
 
 ## Lab Types
