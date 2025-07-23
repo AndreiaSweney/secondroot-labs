@@ -26,7 +26,6 @@ All boxes were completed using Kali Linux in a VirtualBox lab setup, connected t
 
 ## Upcoming Boxes
 
-- Meow ✅ *(completed – write-up coming soon)*
 - Dancing
 - Redeemer
 - Preignition
