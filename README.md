@@ -61,7 +61,7 @@ secondroot-labs/
 - Obsidian
 
 ## Goals 
-- Pass CompTIA Security+ by August 2025
+- Pass CompTIA Security+ by September 2025
 - Build a solid cybersecurity portfolio
 - Land a SOC Analyst or Blue Team role
 - Document my transformation with percision and personality
