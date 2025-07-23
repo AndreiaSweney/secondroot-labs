@@ -1,6 +1,6 @@
 # Fawn – Hack The Box Write-Up
 
-**Difficulty:** Easy  
+**Difficulty:** Easy   
 **Category:** Starting Point  
 **IP Address:** *[REDACTED]*  
 **Date Completed:** July 22, 2025  
