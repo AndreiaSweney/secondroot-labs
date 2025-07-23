@@ -12,6 +12,7 @@ All boxes were completed using Kali Linux in a VirtualBox lab setup, connected t
 | Box Name | Difficulty | Category       | Status   | Write-Up |
 |----------|------------|----------------|----------|----------|
 | Fawn     | Easy       | Starting Point | ✅ Done   | [View](./fawn/README.md) |
+| Meow     | Easy       | Starting Point | ✅ Done   | [View](./meow/meow.md)
 
 ---
 
