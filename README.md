@@ -29,11 +29,14 @@ secondroot-labs/
 ├── notes-secplus/    # My Security+ study notes (CompTIA SY0-701)
 └── README.md
 ```
+
 ## Labs & Write-Ups
 
 - [RootGenesis Home Lab Setup](./write-ups/rootgenesis-lab.md)  
   A documented breakdown of my personal cybersecurity lab build using VirtualBox, Kali Linux, and Security Onion — including setup steps, networking configs, and troubleshooting notes.
 
+- [Fawn (HTB)](./HTB/fawn/README.md)  
+  Completed with no errors — clean process flow covering FTP enumeration and basic flag capture.
 
 ## Lab Types
 
